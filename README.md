@@ -36,20 +36,17 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 
 <h3>Get in touch with me</h3>
 <p>
-    <a href="https://github.com/vishal643" target="_blank">
+    <a href="https://github.com/vishal643" target="_open">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a> 
-    <a href="https://twitter.com/vishal643" target="_blank">
+    <a href="https://twitter.com/vishal643" target="_open">
         <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/mansisindhu2909" target="_blank">
+    <a href="https://www.linkedin.com/in/vishal-kumar-560aa5148/" target="_open">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> 
-    <a href="https://medium.com/@mansisindhu2909" target="_blank">
-        <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-    <a href="mailto:mansisindhu2909@gmail.com" target="_blank">
-        <img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:vishalkumar199812@@gmail.com" target="_open">
+        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
 <!-- 
