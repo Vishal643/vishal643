@@ -11,7 +11,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 </a>
 <br />
 <br />
-🌱 I’m currently working on **MERN Stack(MongoDB, ExpressJS, ReactJS, NodeJs)**.
+🌱 I’m currently working on **MERN Stack** (MongoDB, ExpressJS, ReactJS, NodeJs)
 
 ## 🚀 Languages and Tools:
 
