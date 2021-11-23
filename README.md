@@ -7,7 +7,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 
 
 <a href="https://vishal-s-portfolio.netlify.app/">
-    My Portfolio Link: 
+    <b>My Portfolio Link</b>
 </a>
 <br />
 <br />
