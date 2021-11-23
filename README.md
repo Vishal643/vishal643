@@ -9,7 +9,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
 <a href="https://vishal-s-portfolio.netlify.app/">
     My Portfolio Link: 
 </a>
-< br />
+<br />
 <br />
 🌱 I’m currently working on **MERN Stack(MongoDB, ExpressJS, ReactJS, NodeJs)**.
 
@@ -55,12 +55,7 @@ I'm a passionate Full Stack Web Developer specilized in MERN stack. My passion f
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/vishal643/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mansisindhu">
-</a>
-<a href="https://github.com/vishal643?tab=followers"><img src="https://img.shields.io/github/followers/mansisindhu?label=Followers&style=social" alt="GitHub Badge"></a>
+<br />
 <a href="https://vishal-s-portfolio.netlify.app/">
     Visit my website
 </a>
